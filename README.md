@@ -13,4 +13,4 @@ Apple Music also lists radio stations on TuneIn, but these can't be played on Ap
 
 **GitHub Repo for Issues**
 
-https://github.com/Amaru8/Cider-FixTuneIn
+https://github.com/Amaru8/Cider-FixTuneIn/issues
